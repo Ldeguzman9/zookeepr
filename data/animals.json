@@ -135,6 +135,15 @@
         "loving"
       ],
       "id": "13"
+    },
+    {
+      "name": "Siberian Husky",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }

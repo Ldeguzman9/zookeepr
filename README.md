@@ -14,7 +14,7 @@ This app contains:
 
 - **Main Screen:**
 - 
-  ![Mainscreen](https://github.com/Ldeguzman9/taskmaster-pro/blob/main/assets/images/Screenshot%202022-01-29%20at%206.28.27%20PM.png?raw=true)
+  ![Mainscreen](https://github.com/Ldeguzman9/zookeepr/blob/main/assets/images/Screenshot%202022-01-29%20at%207.37.29%20PM.png?raw=true)
 
 # Technical Skills
 
